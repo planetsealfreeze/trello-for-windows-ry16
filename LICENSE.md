@@ -1,4 +1,4 @@
-# 
+# elite Trello for Windows Plugin | voice-input + checklists offers the most advanced Trello for Windows plugin, with voice-input and checklists. Ideal for Windows professionals.
 
 
 
